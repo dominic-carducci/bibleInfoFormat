@@ -19,6 +19,7 @@ This is a repository where I'll store books that I've converted into info, I don
 ## Books Included
 
 1.  KJV Bible
+2.  In the Beginning was the Command Line by Neal Stephenson
 
 
 <a id="org0147ca0"></a>
