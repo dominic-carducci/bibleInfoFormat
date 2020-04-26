@@ -1,26 +1,6 @@
-
-# Table of Contents
-
-1.  [Great Books in Info](#org6163cd7)
-    1.  [Books Included](#org1a6e4d6)
-    2.  [What is Info](#org0147ca0)
-    3.  [Getting Started](#org445d44f)
-
-
-<a id="org6163cd7"></a>
-
-# Great Books in Info
-
-This is a repository where I'll store books that I've converted into info, I don't wave any copyright claims and if someone finds issue with this please kindly ask me to take the repository down. I only throw these up in case anybody else is interested. All the mistakes are my own.
-
-
-<a id="org1a6e4d6"></a>
-
 ## Books Included
 
 1.  KJV Bible
-2.  In the Beginning was the Command Line by Neal Stephenson
-
 
 <a id="org0147ca0"></a>
 
